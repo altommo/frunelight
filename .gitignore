@@ -1,0 +1,25 @@
+# Dependencies
+dependencies/
+libs/*.jar
+
+# Build outputs
+build/
+.gradle/
+out/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
