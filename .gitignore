@@ -23,3 +23,5 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+/python-ai/venv/
